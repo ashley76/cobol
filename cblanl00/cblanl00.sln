@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "cblanl00", "cblanl00\cblanl00.cblproj", "{CDA62E9B-7C77-49F0-BC0D-B63C2253EDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA62E9B-7C77-49F0-BC0D-B63C2253EDDA}.Debug|x86.ActiveCfg = Debug|x86
+		{CDA62E9B-7C77-49F0-BC0D-B63C2253EDDA}.Debug|x86.Build.0 = Debug|x86
+		{CDA62E9B-7C77-49F0-BC0D-B63C2253EDDA}.Release|x86.ActiveCfg = Release|x86
+		{CDA62E9B-7C77-49F0-BC0D-B63C2253EDDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0FD8DC-40C5-489F-BE5A-715F859F0FEE}
+	EndGlobalSection
+EndGlobal

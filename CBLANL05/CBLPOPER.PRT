@@ -1,0 +1,26 @@
+DATE: 02/04/2019                                    ALBIA SOCCER CLUB FUNDRAISER                                            PAGE:  1
+CBLANL05                                                 LINDQUIST DIVISION                                                         
+                                                            ERROR REPORT                                                            
+
+ERROR RECORD                                                            ERROR DESCRIPTION                                           
+
+               Holden         7805 Oak AvenueEvansvilleIA1859563560193A LAST NAME REQUIRED.                                         
+
+Cummings                      9291 River StreSimsbury  NE5138403750133A FIRST NAME REQUIRED.                                        
+
+Johnston       Michael        3304 Beechwood MiddletownWW4727197900371A CHOOSE: IA, IL, MI, MO, NE, WI.                             
+
+Ingram         Sterling       8604 Cooper StrFrench LicMOAAAAAAAAA0381A ZIP MUST BE NUMERIC.                                        
+
+Morton         August         8026 Crescent SAndersonviIA843315318AA36A POP TYPE MUST BE NUMERIC.                                   
+
+ContrerasBarnetJett           8918 Academy StEast SaintNE2289558831094A CHOOSE: 1-6                                                 
+
+Soto           Lawrence       1770 Lincoln StRedding   WI70146118605WWA NUMBER OF CASES MUST BE NUMERIC.                            
+
+Beck           MarvinCasey    2322 Mulberry CChickasaw MI7519766340600A MINIMUM OF 1 CASE.                                          
+
+Thompson       MarvinCasey    2596 Canal StreTallahasseIA6782483920143W CHOOSE A - E.                                               
+
+
+TOTAL ERRORS     9                                                                                                                  

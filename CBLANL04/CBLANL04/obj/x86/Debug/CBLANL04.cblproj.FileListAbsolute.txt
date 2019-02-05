@@ -1,0 +1,2 @@
+C:\COBOL\Projects\CBLANL04\CBLANL04\bin\x86\Debug\CBLANL04.idy
+C:\COBOL\Projects\CBLANL04\CBLANL04\obj\x86\Debug\CBLANL04.idy

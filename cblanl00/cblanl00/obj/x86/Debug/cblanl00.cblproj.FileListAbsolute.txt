@@ -1,0 +1,2 @@
+C:\Users\Ashley Nicole\Desktop\Cobol\Projects\cblanl00\cblanl00\bin\x86\Debug\cblanl00.idy
+C:\Users\Ashley Nicole\Desktop\Cobol\Projects\cblanl00\cblanl00\obj\x86\Debug\cblanl00.idy
