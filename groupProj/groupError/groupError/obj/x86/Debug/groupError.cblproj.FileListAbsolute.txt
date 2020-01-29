@@ -1,0 +1,2 @@
+C:\Users\Ashley Nicole\Desktop\Cobol 3\groupProj\groupError\groupError\bin\x86\Debug\groupError.idy
+C:\Users\Ashley Nicole\Desktop\Cobol 3\groupProj\groupError\groupError\obj\x86\Debug\groupError.idy

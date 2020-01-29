@@ -1,0 +1,2 @@
+C:\Users\Ashley Nicole\Desktop\Cobol 3\groupProj\groupProj\groupProj\bin\x86\Debug\groupProj.idy
+C:\Users\Ashley Nicole\Desktop\Cobol 3\groupProj\groupProj\groupProj\obj\x86\Debug\groupProj.idy

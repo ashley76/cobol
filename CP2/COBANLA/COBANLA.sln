@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "COBANLA", "COBANLA\COBANLA.cblproj", "{CB1806B4-0BA5-4422-8E88-D56681019DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1806B4-0BA5-4422-8E88-D56681019DEB}.Debug|x86.ActiveCfg = Debug|x86
+		{CB1806B4-0BA5-4422-8E88-D56681019DEB}.Debug|x86.Build.0 = Debug|x86
+		{CB1806B4-0BA5-4422-8E88-D56681019DEB}.Release|x86.ActiveCfg = Release|x86
+		{CB1806B4-0BA5-4422-8E88-D56681019DEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEAB1CD6-BC42-491C-8E3A-EF6B06FC9440}
+	EndGlobalSection
+EndGlobal
